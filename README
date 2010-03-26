@@ -1,0 +1,45 @@
+Filip Visnjic 2010 // fvda.co.uk // CreativeApplications.Net
+
+Created at the V&A Decode openFrameworks Workshop in London 28/02/2010
+
+iPhone 3Gs  recommended
+
+Features:
+- Control particles and their motion by drawing on the screen.
+- Tilt control particles or use automated motion
+- Change colours in the settings panel or using one of the included presets in the menu below.
+- Download desktop application which you can control using your iPhone and OSC Application.
+
+Read about this + download source here:
+http://www.creativeapplications.net/iphone/prtcl-iphone-openframeworks/
+
+Thanks to Joel Gethin Lewis, Zach Lieberman, Kyle McDonald, Arturo Castro, Andreas MŸller, Eduard Prats Molner, Zach Gage, onedotzero and Victoria and Albert Museum.
+
+Created with openFrameworks.
+
+For information on openFrameworks see http://openframeworks.cc
+
+For information on past and future workshops see http://wiki.openframeworks.cc
+
+
+The MIT License
+
+Copyright (c) 2010 Filip Visnjic
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
