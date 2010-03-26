@@ -1,0 +1,108 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* FATTAG */ = {
+		activeExec = 0;
+		executables = (
+			E49C94C60F8DD23900234386 /* FATTAG */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E49C94C60F8DD23900234386 /* FATTAG */;
+		activeSDKPreference = iphonesimulator2.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* FATTAG */;
+		codeSenseManager = E49C94E50F8DD25E00234386 /* Code sense */;
+		executables = (
+			E49C94C60F8DD23900234386 /* FATTAG */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					993,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 260952633;
+			PBXWorkspaceStateSaveDate = 260952633;
+		};
+		perUserProjectItems = {
+			E49C94EA0F8DD2BB00234386 /* PBXBookmark */ = E49C94EA0F8DD2BB00234386 /* PBXBookmark */;
+			E49C94F80F8DD2BB00234386 /* PBXTextBookmark */ = E49C94F80F8DD2BB00234386 /* PBXTextBookmark */;
+		};
+		sourceControlManager = E49C94E40F8DD25E00234386 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	BB73D3DA0F4B08B60092FC06 /* testApp.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 5852}}";
+			sepNavSelRange = "{8895, 0}";
+			sepNavVisRange = "{0, 904}";
+		};
+	};
+	E49C94C60F8DD23900234386 /* FATTAG */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = FATTAG;
+		sourceDirectories = (
+		);
+	};
+	E49C94E40F8DD25E00234386 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	E49C94E50F8DD25E00234386 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E49C94EA0F8DD2BB00234386 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BB73D3DA0F4B08B60092FC06 /* testApp.cpp */;
+	};
+	E49C94F80F8DD2BB00234386 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BB73D3DA0F4B08B60092FC06 /* testApp.cpp */;
+		name = "testApp.cpp: 409";
+		rLen = 0;
+		rLoc = 8895;
+		rType = 0;
+		vrLen = 904;
+		vrLoc = 0;
+	};
+}
